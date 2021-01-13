@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.decoration{
+  text-decoration: line-through;
+}
+.button1 {border-radius: 100%;
+  background-color: white;
+  color: black;
+  border: 2px solid black;
+  width: 20px;
+  height: 20px;
+  margin-left: 20px;
+  padding-left: 4px;
+}
